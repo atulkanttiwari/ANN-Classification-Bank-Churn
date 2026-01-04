@@ -26,6 +26,8 @@ The dataset used is `Churn_Modelling.csv`, which contains customer information s
 - Streamlit
 - Matplotlib (for potential visualizations)
 - TensorBoard (for model monitoring)
+- Keras
+- scikeras
 
 ## Installation
 
